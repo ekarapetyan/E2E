@@ -1,0 +1,71 @@
+[33mcommit db7071e242f82ed7a470350f77a2fcf62abe136a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 88f3141 b317c62
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 17:00:34 2026 +0400
+
+    merged to test33
+
+[33mcommit 88f31412d8331d406360ca9b377a2da9f58cecc2[m
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 16:51:20 2026 +0400
+
+    test2 was added
+
+[33mcommit b317c622fb89ed7fcbd59ec0e4911fd061791d42[m[33m ([m[1;31morigin/test-branch[m[33m, [m[1;32mtest-branch[m[33m)[m
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 16:47:33 2026 +0400
+
+    change done
+
+[33mcommit e71abf61c0f668ee04c7e0c463458a6a45b283a5[m
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 16:38:32 2026 +0400
+
+    New text file added
+
+[33mcommit f906a0e82ebb40abf12b008301e6ae98bb9d9dc7[m
+Merge: fdcd712 dba1c56
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 16:18:14 2026 +0400
+
+    Merge branch 'elya-local-branch'
+
+[33mcommit fdcd71291c1d5dc77377bee5454a665be5907efe[m
+Merge: 206a6b0 9d79d9a
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 15:53:51 2026 +0400
+
+    Merge branch 'elya-local-branch'
+
+[33mcommit dba1c56b35b2323c2d4aaa56cf9e9dc8043fa374[m
+Merge: b06109d 206a6b0
+Author: Elya Karapetyan <elelyak@gmail.com>
+Date:   Sat Jun 27 15:46:38 2026 +0400
+
+    Merge pull request #1 from ekarapetyan/main
+    
+    causes changed to porposes
+
+[33mcommit 206a6b059b9fe70451dcf1837be20a02f503029b[m
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 15:42:58 2026 +0400
+
+    causes changed to porposes
+
+[33mcommit 9d79d9a1a8d4194def47c48f72ed933c00fa3126[m
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 15:42:20 2026 +0400
+
+    causes changed to complex
+
+[33mcommit b06109dc276b39abef4736ed2bbf7e3da9c5b765[m
+Author: ekarapetyan <elelyak@gmail.comm>
+Date:   Sat Jun 27 15:41:03 2026 +0400
+
+    new txt file was added
+
+[33mcommit 089936162267f6ad105fcc27c818070068ccbbd4[m
+Author: Elya Karapetyan <elelyak@gmail.com>
+Date:   Thu Jun 25 12:01:07 2026 +0400
+
+    Initial commit
